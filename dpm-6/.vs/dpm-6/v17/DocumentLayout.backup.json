@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kmv23\\Desktop\\DPM\\DPM-6\\dpm-6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB18D3E-525C-4B87-8B0D-B7B3DBE5CD65}|dpm-6\\dpm-6.csproj|c:\\users\\kmv23\\desktop\\dpm\\dpm-6\\dpm-6\\dpm-6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB18D3E-525C-4B87-8B0D-B7B3DBE5CD65}|dpm-6\\dpm-6.csproj|solutionrelative:dpm-6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kmv23\\Desktop\\DPM\\DPM-6\\dpm-6\\dpm-6\\Program.cs",
+              "RelativeDocumentMoniker": "dpm-6\\Program.cs",
+              "ToolTip": "C:\\Users\\kmv23\\Desktop\\DPM\\DPM-6\\dpm-6\\dpm-6\\Program.cs",
+              "RelativeToolTip": "dpm-6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T11:31:11.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
