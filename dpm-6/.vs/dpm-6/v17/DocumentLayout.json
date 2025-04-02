@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\kmv23\\Desktop\\DPM\\DPM-6\\dpm-6\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D0E3D72C-7F42-4881-88B2-E0FE8744DA74}|Task4\\Task4.csproj|c:\\users\\kmv23\\desktop\\dpm\\dpm-6\\dpm-6\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E3D72C-7F42-4881-88B2-E0FE8744DA74}|Task4\\Task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A37CA95B-A45D-4A01-8C61-54753978C72F}|Task3\\Task3.csproj|c:\\users\\kmv23\\desktop\\dpm\\dpm-6\\dpm-6\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A37CA95B-A45D-4A01-8C61-54753978C72F}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kmv23\\Desktop\\DPM\\DPM-6\\dpm-6\\Task4\\Program.cs",
+              "RelativeDocumentMoniker": "Task4\\Program.cs",
+              "ToolTip": "C:\\Users\\kmv23\\Desktop\\DPM\\DPM-6\\dpm-6\\Task4\\Program.cs",
+              "RelativeToolTip": "Task4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:38:59.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kmv23\\Desktop\\DPM\\DPM-6\\dpm-6\\Task3\\Program.cs",
               "RelativeDocumentMoniker": "Task3\\Program.cs",
